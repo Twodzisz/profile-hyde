@@ -28,12 +28,12 @@ Very brief description here. No bullets.
 
 
 ### College Activities
-#### Sigma Delta Chi
+#### Pi Kappa Alpha 
 Brief explanation
 
-* President Jan. 2016 - present
-* Secretary Sept. 2015 - Jan. 2016
-* Member  Sept. 2014 - present
+* Public Relations Chair Sept. 2014- May 2015
+* Founding Father
+* Member from 2012-2016
 
 
 #### Iowa Raptor Project
@@ -50,4 +50,4 @@ Something about birds.
 
 ### Education
 #### University of Iowa
-Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
+Bachelor of Arts in Journalism and Mass Communication *anticipated December 2016* 
