@@ -7,11 +7,11 @@ title: Resume
 
 ### Experience
 
-#### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
+#### Martini's Bar
+##### Manager *Aug. 2016 - current*
 Brief description here.    
 
-* list two or three
+* list two 
 * important achievements
 
 ##### Copy Editor *Sept. 2014 - Dec. 2015*
