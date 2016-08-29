@@ -2,8 +2,8 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+201 E. Burlington St., Iowa City, IA 52242  
+[timothy-wodzisz@uiowa.edu](mailto:timothy-wodzisz@uiowa.edu) - (319) 335 - 3331
 
 ### Experience
 
