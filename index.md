@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-![logo](public/test.jpg)
+![logo](G0138582.JPG)
+"Those who don't jump will never fly"
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2016.
 
