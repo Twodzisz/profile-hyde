@@ -37,8 +37,8 @@ I am part of the "Founding Father" class of the Gamma Nu chapter at the Universi
 
 
 #### 3-time Intramural Sports Champion
-*2-time dodgeball champion
-*1-time slow pitch softball champion
+* 2-time dodgeball champion
+* 1-time slow pitch softball champion
 
 
 ### Skills
