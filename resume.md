@@ -50,4 +50,5 @@ Skills
 
  Education
  University of Iowa 
-Bachelor of Arts in Journalism and Mass Communication along with Sports Studies *anticipated December 2016* 
+Bachelor of Arts in Journalism and Mass Communication along with Sports Studies 
+* anticipated December 2016* 
