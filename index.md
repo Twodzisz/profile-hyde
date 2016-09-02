@@ -7,15 +7,15 @@ title: Home
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2016.
 
-I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently the sergeant-at-arms of the University of Iowa [Society for the Promotion of Associations](/#), and I really like green eggs and ham.
+I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently in the journalism program at the University of Iowa (/#), and I will be seeking a full time job come 2017.
 
 ### Social media
 
 <!-- go to http://fontawesome.io/icons/ to see more icons -->
 <p class="social-icons">
-<a href="http://twitter.com/stellarstudent"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
+<a href="https://twitter.com/twodzisz"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
 <br>
-<a href="http://facebook.com/stellarstudent"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
+<a href="https://www.facebook.com/wodzisz2"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <br>
-<a href="http://linkedin.com/in/stellarstudent"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
+<a href="https://www.linkedin.com/in/tim-wodzisz-038527b9"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>
