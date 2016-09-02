@@ -4,27 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  My name is Tim Wodzisz and I am currently a senior attending the University of Iowa. I have spent the last four years studying journalism and sports, two of my favorite topics. I grew up in Chicago and because of that I am a die hard chicago sports fan. I hope to someday bring my passion for sports and journalism together and make a career out of it. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I believe that my previous experiences in the work world have helped turn me into a trustworthy and loyal person with keen leadership skills. Together those qualities help me rise in the workplace. My work hard, play hard mentality helps make the working environment fun yet very task oriented. I continue to be learn and better as a person living in society. 
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
