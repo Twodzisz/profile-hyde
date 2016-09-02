@@ -7,7 +7,7 @@ title: Home
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2016.
 
-I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently in the journalism program at the University of Iowa (/#), and I will be seeking a full time job come 2017.
+I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently in the journalism program at the University of Iowa, and I will be seeking a full time job come 2017.
 
 ### Social media
 
