@@ -3,15 +3,15 @@ layout: resume
 title: Resume
 ---
 201 E. Burlington St., Iowa City, IA 52242  
-[timothy-wodzisz@uiowa.edu](mailto:timothy-wodzisz@uiowa.edu) - (319) 335 - 3331
+[timothy-wodzisz@uiowa.edu](mailto:timothy-wodzisz@uiowa.edu) 
 
 ### Experience
 
 #### Martini's Bar
 ##### Manager *Aug. 2016 - current*
-Brief description here.    
+When managing, I oversee 8-12 employees each shift ensuring that the bar is ran smoothly as the night goes on. I am the eyes and the ears to the owner when he, himself, is not here overseeing the business.     
 
-* list two 
+* 
 * important achievements
 
 ##### Copy Editor *Sept. 2014 - Dec. 2015*
